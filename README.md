@@ -8,6 +8,6 @@ Para comenzar a utilizar este proyecto, simplemente clona el repositorio y empie
 
 ## 📚 Documentación y explicaciones
 
-Tengo un drive donde documento como implemnetarle seguridad y muchas más cosas de Spring, echale un vistazo, es GRATIS --> https://docs.google.com/document/d/1vnzZ3QvvSO0E0mLggKKMDuPOd4-gq6dBL89URtORbZk/edit?usp=sharing
+Tengo un drive donde documento como implementarle seguridad y muchas más cosas de Spring, echale un vistazo, es GRATIS --> https://docs.google.com/document/d/1vnzZ3QvvSO0E0mLggKKMDuPOd4-gq6dBL89URtORbZk/edit?usp=sharing
 
 ¡Gracias por visitar este proyecto y espero que te sea de ayuda!
